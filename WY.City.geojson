@@ -1,0 +1,4820 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AFTON, BOARD OF PUB UTILITIES",
+        "Population Served": 2000,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRVIEW WATER & SEWER DISTRICT",
+        "Population Served": 230,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSMOND I&S DISTRICT",
+        "Population Served": 31,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSMOND PIPELINE CO",
+        "Population Served": 250,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAR VALLEY TRAILER COURT",
+        "Population Served": 72,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAR VIEW ESTATES",
+        "Population Served": 84,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTVIEW VILLAGE",
+        "Population Served": 83,
+        "City": "AFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.933402,
+          42.7252774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBIN, TOWN OF",
+        "Population Served": 181,
+        "City": "ALBIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.101061,
+          41.4176663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPINE, TOWN OF",
+        "Population Served": 1300,
+        "City": "ALPINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0178761,
+          43.1636455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORDIC RANCHES WATER, LLC.",
+        "Population Served": 465,
+        "City": "ALPINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0178761,
+          43.1636455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH ALPINE I&S DISTRICT",
+        "Population Served": 200,
+        "City": "ALPINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0178761,
+          43.1636455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TARGHEE TOWNE WATER DISTRICT",
+        "Population Served": 120,
+        "City": "ALTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0366667,
+          43.7542867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAGGS, TOWN OF",
+        "Population Served": 400,
+        "City": "BAGGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.657569,
+          41.035798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAIROIL, TOWN OF",
+        "Population Served": 71,
+        "City": "BAIROIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.562115,
+          42.2358717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BASIN, TOWN OF",
+        "Population Served": 1250,
+        "City": "BASIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.038989,
+          44.379956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH BIG HORN COUNTY JPB",
+        "Population Served": 900,
+        "City": "BASIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.038989,
+          44.379956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEDFORD WATER & SEWER DISTRICT",
+        "Population Served": 750,
+        "City": "BEDFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9335875,
+          42.8994814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURNERVILLE WATER AND SEWER DISTRICT",
+        "Population Served": 90,
+        "City": "BEDFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9335875,
+          42.8994814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEULAH LAND WATER",
+        "Population Served": 50,
+        "City": "BEULAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.089102,
+          44.5444299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG PINEY, TOWN OF",
+        "Population Served": 445,
+        "City": "BIG PINEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.113681,
+          42.5381646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VILLAGE PARKS",
+        "Population Served": 53,
+        "City": "BIG PINEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.113681,
+          42.5381646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BALD MOUNTAIN TRAILER COURT",
+        "Population Served": 150,
+        "City": "BUFFALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.699287,
+          44.3480865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIGHORN MOUNTAIN CAMPGROUND",
+        "Population Served": 29,
+        "City": "BUFFALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.699287,
+          44.3480865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUFFALO, CITY OF",
+        "Population Served": 4419,
+        "City": "BUFFALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.699287,
+          44.3480865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURLINGTON, TOWN OF",
+        "Population Served": 348,
+        "City": "BURLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4317912,
+          44.4470583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURNS BOARD OF PUBLIC UTILITIES",
+        "Population Served": 1024,
+        "City": "BURNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.358907,
+          41.1918159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BYRON, TOWN OF",
+        "Population Served": 593,
+        "City": "BYRON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.50651,
+          44.796341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARPENTER W&S DISTRICT",
+        "Population Served": 94,
+        "City": "CARPENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.3627365,
+          41.0461861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROKEN WRENCH LLC",
+        "Population Served": 30,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASPER, CITY OF",
+        "Population Served": 59000,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL WY REGIONAL WATER SYSTEM JPB",
+        "Population Served": 25,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN VALLEY MHP",
+        "Population Served": 265,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN HILLS MHP",
+        "Population Served": 324,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NATRONA COUNTY INT'L AIRPORT",
+        "Population Served": 375,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERSIDE MOBILE HOME COURT",
+        "Population Served": 330,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDY LAKE ESTATES I&S DISTRICT",
+        "Population Served": 150,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TERRACE II MHC",
+        "Population Served": 320,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TERRACE I MHC",
+        "Population Served": 336,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA WEST WATER COMPANY",
+        "Population Served": 1600,
+        "City": "CASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTENNIAL WATER AND SEWER DISTRICT",
+        "Population Served": 150,
+        "City": "CENTENNIAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.139369,
+          41.297896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG COUNTRY ESTATES",
+        "Population Served": 615,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHEYENNE BOARD OF PUBLIC UTILITIES",
+        "Population Served": 64165,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIMMARON VILLAGE",
+        "Population Served": 327,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENGLEWOOD VILLAGE MHP",
+        "Population Served": 152,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVERGREEN MOBILE HOME PARK",
+        "Population Served": 26,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDE-A-WAY MOBILE VILLAGE",
+        "Population Served": 107,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLAND RANCH ESTATES",
+        "Population Served": 128,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLER LOWER MOBILE HOME PARK",
+        "Population Served": 30,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW ESTATES (KNECHT INVTS)",
+        "Population Served": 75,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORCHARD VALLEY WATER COMPANY",
+        "Population Served": 260,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RESTWAY TRAVEL PARK",
+        "Population Served": 62,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH CHEYENNE WATER & SEWER DISTRICT",
+        "Population Served": 10000,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "USAF  F.E. WARREN AFB",
+        "Population Served": 5500,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST WINDS",
+        "Population Served": 663,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINCHESTER HILLS",
+        "Population Served": 1078,
+        "City": "CHEYENNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.820246,
+          41.139981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHUGWATER, TOWN OF",
+        "Population Served": 200,
+        "City": "CHUGWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.821635,
+          41.756639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEARMONT, TOWN OF",
+        "Population Served": 142,
+        "City": "CLEARMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.381032,
+          44.640293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CODY, CITY OF",
+        "Population Served": 10224,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COPPERLEAF WATER SYSTEM",
+        "Population Served": 42,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN ACRES MOBILE HOME PARK",
+        "Population Served": 375,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUBY`S MOBILE HOME PARK",
+        "Population Served": 300,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHWEST RURAL WATER DISTRICT",
+        "Population Served": 7330,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERS BEND TRAILER COURT",
+        "Population Served": 96,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHOSHONE MUNICIPAL PIPELINE",
+        "Population Served": 25,
+        "City": "CODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.056392,
+          44.5263107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COKEVILLE, TOWN OF",
+        "Population Served": 535,
+        "City": "COKEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9566093,
+          42.0848242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COWLEY, TOWN OF",
+        "Population Served": 800,
+        "City": "COWLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.469565,
+          44.883286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAYTON, TOWN OF",
+        "Population Served": 824,
+        "City": "DAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.262232,
+          44.875224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEAVER MUNICIPAL WATER SYSTEM",
+        "Population Served": 176,
+        "City": "DEAVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.596238,
+          44.8912188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DIXON, TOWN OF",
+        "Population Served": 97,
+        "City": "DIXON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.535621,
+          41.0332981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOUGLAS, CITY OF",
+        "Population Served": 6400,
+        "City": "DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382624,
+          42.7595708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOUGLAS KOA CG & PINE MEADOWS MHP",
+        "Population Served": 165,
+        "City": "DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382624,
+          42.7595708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRWAY ESTATES",
+        "Population Served": 135,
+        "City": "DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382624,
+          42.7595708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONE TREE VILLAGE MHP",
+        "Population Served": 475,
+        "City": "DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382624,
+          42.7595708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGEWATER IMPROVEMENT DISTRICT",
+        "Population Served": 218,
+        "City": "DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382624,
+          42.7595708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNDANCE MEADOWS SPID",
+        "Population Served": 50,
+        "City": "DOUGLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.382624,
+          42.7595708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUBOIS, TOWN OF",
+        "Population Served": 1870,
+        "City": "DUBOIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6309651,
+          43.5336369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARM SPRINGS WATER DISTRICT",
+        "Population Served": 68,
+        "City": "DUBOIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.6309651,
+          43.5336369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDGERTON, TOWN OF",
+        "Population Served": 195,
+        "City": "EDGERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.24901,
+          43.412808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELK MOUNTAIN, TOWN OF",
+        "Population Served": 191,
+        "City": "ELK MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4148123,
+          41.6854571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCAMPMENT, TOWN OF",
+        "Population Served": 450,
+        "City": "ENCAMPMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7895029,
+          41.2095678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIERRA MADRE JPB",
+        "Population Served": 130,
+        "City": "ENCAMPMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7895029,
+          41.2095678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ETNA WATER & SEWER DISTRICT",
+        "Population Served": 135,
+        "City": "ETNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0110523,
+          43.0337488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAR RIVER REGIONAL JOINT POWERS",
+        "Population Served": 1200,
+        "City": "EVANSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.963758,
+          41.2682462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVANSTON, CITY OF",
+        "Population Served": 12000,
+        "City": "EVANSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.963758,
+          41.2682462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YELLOW CREEK ESTATES MHP",
+        "Population Served": 165,
+        "City": "EVANSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.963758,
+          41.2682462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVANSVILLE, TOWN OF",
+        "Population Served": 2728,
+        "City": "EVANSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.269533,
+          42.861429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH RIVERSIDE ACRES WTR IMPR DIST",
+        "Population Served": 125,
+        "City": "EVANSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.269533,
+          42.861429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENNINGTON SPRINGS PIPELINE",
+        "Population Served": 45,
+        "City": "FAIRVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6585726,
+          43.8002547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARSON EDEN SCHOOL",
+        "Population Served": 530,
+        "City": "FARSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4484724,
+          42.1084591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARSON MOBILE HOME COURT",
+        "Population Served": 20,
+        "City": "FARSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4484724,
+          42.1084591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT LARAMIE, TOWN OF",
+        "Population Served": 230,
+        "City": "FORT LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.51774,
+          42.21271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANNIE, TOWN OF",
+        "Population Served": 160,
+        "City": "FRANNIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.621516,
+          44.9691175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEDOM W&S DISTRICT",
+        "Population Served": 307,
+        "City": "FREEDOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0438995,
+          42.9826645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AMERICAN ROAD W&S DISTRICT",
+        "Population Served": 220,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANTELOPE VALLEY I&S DISTRICT (AVISD)",
+        "Population Served": 1280,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRADY-HENNING WATER SYSTEM",
+        "Population Served": 96,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR HILLS WATER ASSOCIATION",
+        "Population Served": 258,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOK ROAD WATER DISTRICT",
+        "Population Served": 291,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRYSIDE WATER USERS, INC.",
+        "Population Served": 360,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESTVIEW ESTATES SUBDIVISION",
+        "Population Served": 500,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAGLE RIDGE MHP, LLC",
+        "Population Served": 140,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASTVIEW MANUFACTURED HOME COMMUNITY",
+        "Population Served": 688,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EIGHT MILE SUBDIVISION",
+        "Population Served": 120,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOOTHILLS MOBILE HOME PARK",
+        "Population Served": 735,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORCE ROAD JOINT POWERS BOARD",
+        "Population Served": 195,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOX PARK SUBDIVISION",
+        "Population Served": 843,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOX RIDGE WATER SYSTEM",
+        "Population Served": 38,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEDOM HILLS SUBDIVISION",
+        "Population Served": 400,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILLETTE, CITY OF",
+        "Population Served": 32222,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN VALLEY ESTATES I&S DISTRICT",
+        "Population Served": 140,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAGENS ESTATES",
+        "Population Served": 29,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HERITAGE VILLAGE SUBDIVISION",
+        "Population Served": 750,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHVIEW MFG MOBILE HOME COMMUNITY (MHC)",
+        "Population Served": 304,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOY MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEVIEW MOBILE HOME PARK",
+        "Population Served": 36,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEX MOBILE HOME PARK",
+        "Population Served": 172,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW SPRINGS IMP & SERV",
+        "Population Served": 45,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEANS IMPROVEMENT & SERVICE DISTRICT",
+        "Population Served": 410,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NICKELSON FARMS WATER COMPANY",
+        "Population Served": 400,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OVERBROOK SUBDIVISION",
+        "Population Served": 66,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEOPLE`S IMPROVEMENT & SERVICE DISTRICT",
+        "Population Served": 176,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEVIEW I&S DISTRICT",
+        "Population Served": 75,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAFTER D IMPROVEMENT & SERVICE DISTRICT",
+        "Population Served": 40,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED HILLS SUBDIVISON",
+        "Population Served": 62,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RODEO FLATS",
+        "Population Served": 72,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROZET RANCHETTES I&S DISTRICT",
+        "Population Served": 85,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SECTION 4 WATER SYSTEM INCORPORATED",
+        "Population Served": 120,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SLEEPY HOLLOW SUBDIVISION",
+        "Population Served": 2400,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHFORK ESTATES",
+        "Population Served": 144,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHSIDE WELL I&S DISTRICT",
+        "Population Served": 30,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONE GATE ESTATES",
+        "Population Served": 198,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STROUP TRAILER COURT",
+        "Population Served": 74,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WRANGLER ESTATES",
+        "Population Served": 250,
+        "City": "GILLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENDO, TOWN OF",
+        "Population Served": 247,
+        "City": "GLENDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.026083,
+          42.502747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENROCK, TOWN OF",
+        "Population Served": 2466,
+        "City": "GLENROCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8720412,
+          42.8614825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANGER, TOWN OF",
+        "Population Served": 139,
+        "City": "GRANGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9682144,
+          41.5925211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT TRAILS MHP",
+        "Population Served": 174,
+        "City": "GREEN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466473,
+          41.5290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMERALD RIVER ESTATES",
+        "Population Served": 62,
+        "City": "GREEN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466473,
+          41.5290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN RIVER, CITY OF",
+        "Population Served": 10500,
+        "City": "GREEN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466473,
+          41.5290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAMESTOWN-RIO VISTA W&S DISTRICT",
+        "Population Served": 560,
+        "City": "GREEN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466473,
+          41.5290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIONEER MOBILE HOME PARK",
+        "Population Served": 1000,
+        "City": "GREEN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466473,
+          41.5290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCK SPRINGS/GREEN RIVER JPB",
+        "Population Served": 25,
+        "City": "GREEN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.466473,
+          41.5290933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREYBULL HEIGHTS WATER USERS",
+        "Population Served": 84,
+        "City": "GREYBULL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0554209,
+          44.488924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREYBULL, TOWN OF",
+        "Population Served": 3260,
+        "City": "GREYBULL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0554209,
+          44.488924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCHAREN SUBDIVISION",
+        "Population Served": 50,
+        "City": "GREYBULL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0554209,
+          44.488924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROVER WATER & SEWER DISTRICT",
+        "Population Served": 252,
+        "City": "GROVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9365932,
+          42.7915938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GUERNSEY, TOWN OF",
+        "Population Served": 1157,
+        "City": "GUERNSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.741472,
+          42.269465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANNA, TOWN OF",
+        "Population Served": 841,
+        "City": "HANNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5620727,
+          41.8699858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTVILLE, TOWN OF",
+        "Population Served": 64,
+        "City": "HARTVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.725241,
+          42.3274685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUDSON, TOWN OF",
+        "Population Served": 460,
+        "City": "HUDSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.583566,
+          42.9058823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HULETT, TOWN OF",
+        "Population Served": 420,
+        "City": "HULETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.601682,
+          44.68276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HYATTVILLE S&I DISTRICT",
+        "Population Served": 66,
+        "City": "HYATTVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6028286,
+          44.2457932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASPENS PINES W&S DISTRICT",
+        "Population Served": 1400,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAR-B-BAR MEADOWS",
+        "Population Served": 55,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAR Y ESTATES/GROS VENTRE WEST WTR DISTS",
+        "Population Served": 270,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVANS MOBILE HOME COURT",
+        "Population Served": 150,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROS VENTRE NORTH HOA",
+        "Population Served": 160,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROS VENTRE UTILITY",
+        "Population Served": 200,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HI-COUNTRY WATER DISTRICT",
+        "Population Served": 85,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "J-W SUBDIVISION ASSOCIATION",
+        "Population Served": 40,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE HORSETHIEF CANYON HOA",
+        "Population Served": 35,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELODY RANCH IMPROVEMENT & SERVICE DIST.",
+        "Population Served": 900,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD WEST CABINS",
+        "Population Served": 70,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAFTER J SUBDIVISION HOA",
+        "Population Served": 1500,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERMEADOWS WATER DISTRICT",
+        "Population Served": 100,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SADDLE BUTTE WATER SYSTEM",
+        "Population Served": 75,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKYLINE RANCH I&S DISTRICT",
+        "Population Served": 260,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SNAKE RIVER MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SNAKE RIVER SPORTING CLUB",
+        "Population Served": 332,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH PARK VILLAGE SUBDIVISION",
+        "Population Served": 65,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING CREEK IMPROVEMENT DISTRICT",
+        "Population Served": 400,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SQUAW CREEK WATER DISTRICT",
+        "Population Served": 160,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TETON SCIENCE SCHOOL-WILSON CAMPUS",
+        "Population Served": 31,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TETON SHADOWS HOA",
+        "Population Served": 100,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN OF JACKSON, WY",
+        "Population Served": 24760,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY VIEW MUTUAL WATER COMPANY",
+        "Population Served": 100,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.761815,
+          43.479965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KAYCEE, TOWN OF",
+        "Population Served": 263,
+        "City": "KAYCEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.638934,
+          43.710251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEMMERER-DIAMONDVILLE JPB",
+        "Population Served": 3348,
+        "City": "KEMMERER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.537711,
+          41.7924606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLEY WATER, LLC",
+        "Population Served": 39,
+        "City": "KEMMERER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.537711,
+          41.7924606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KIRBY, TOWN OF",
+        "Population Served": 40,
+        "City": "KIRBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.180788,
+          43.8041525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA BARGE, TOWN OF",
+        "Population Served": 347,
+        "City": "LA BARGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.194604,
+          42.2618866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA GRANGE, TOWN OF",
+        "Population Served": 448,
+        "City": "LA GRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.163844,
+          41.640252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANCE CREEK WATER DISTRICT",
+        "Population Served": 45,
+        "City": "LANCE CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6419032,
+          43.0324679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUNIPER PARK WATER ASSOCIATION",
+        "Population Served": 42,
+        "City": "LANDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.730702,
+          42.8330755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANDER, CITY OF",
+        "Population Served": 7615,
+        "City": "LANDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.730702,
+          42.8330755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REDD FOX PARK HOA",
+        "Population Served": 65,
+        "City": "LANDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.730702,
+          42.8330755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANTELOPE RIDGE HOA",
+        "Population Served": 70,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BREAZEALE'S MOBILE HOME PARK",
+        "Population Served": 345,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CV LARAMIE MHP, LLC",
+        "Population Served": 375,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LARAMIE, CITY OF",
+        "Population Served": 30899,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NINE-MILE WATER & SEWER DISTRICT",
+        "Population Served": 180,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEVEN MILE WATER & SEWER DISTRICT",
+        "Population Served": 60,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH LARAMIE W&S DISTRICT",
+        "Population Served": 490,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNNY MEADOWS VILLAGE",
+        "Population Served": 485,
+        "City": "LARAMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5917876,
+          41.3116442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINGLE, TOWN OF",
+        "Population Served": 486,
+        "City": "LINGLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.345508,
+          42.136354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE AMERICA HOTELS & RESORTS, INC- WY",
+        "Population Served": 2004,
+        "City": "LITTLE AMERICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8581261,
+          41.5443686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOVELL, TOWN OF",
+        "Population Served": 2360,
+        "City": "LOVELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3935565,
+          44.8376366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH END WATER USERS S&I DISTRICT",
+        "Population Served": 150,
+        "City": "LOVELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3935565,
+          44.8376366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUSK, TOWN OF",
+        "Population Served": 1576,
+        "City": "LUSK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.452175,
+          42.762467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGER VALLEY JOINT POWERS BOARD",
+        "Population Served": 1728,
+        "City": "LYMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.292835,
+          41.327367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYMAN, TOWN OF",
+        "Population Served": 2000,
+        "City": "LYMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.292835,
+          41.327367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANDERSON, TOWN OF",
+        "Population Served": 110,
+        "City": "MANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.963942,
+          44.269402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANVILLE, TOWN OF",
+        "Population Served": 97,
+        "City": "MANVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.617736,
+          42.7791338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARBLETON, TOWN OF",
+        "Population Served": 861,
+        "City": "MARBLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.1096208,
+          42.55558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEDICINE BOW, TOWN OF",
+        "Population Served": 189,
+        "City": "MEDICINE BOW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.204739,
+          41.895521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG VALLEY & CROSSED ARROWS IMP DIST",
+        "Population Served": 35,
+        "City": "MEETEETSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.871519,
+          44.157177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEETEETSE, TOWN OF",
+        "Population Served": 327,
+        "City": "MEETEETSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.871519,
+          44.157177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDWEST, TOWN OF",
+        "Population Served": 410,
+        "City": "MIDWEST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.280075,
+          43.411391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AIR BASE ACRES I&S DISTRICT",
+        "Population Served": 236,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRYSIDE COURT",
+        "Population Served": 125,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEVIEW I&S DISTRICT",
+        "Population Served": 62,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLS, CITY OF",
+        "Population Served": 4050,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIONEER WATER & SEWER DISTRICT",
+        "Population Served": 1500,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT VIEW WATER COMPANY",
+        "Population Served": 130,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POISON SPIDER I&S DISTRICT",
+        "Population Served": 200,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THIRTY-THREE MILE ROAD I&S DISTRICT",
+        "Population Served": 200,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARDWELL WATER & SEWER DISTRICT",
+        "Population Served": 4000,
+        "City": "MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.367935,
+          42.841927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUCKMILLER ENTERPRISES, LLC",
+        "Population Served": 33,
+        "City": "MOORCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.950252,
+          44.263315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOORCROFT, TOWN OF",
+        "Population Served": 1009,
+        "City": "MOORCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.950252,
+          44.263315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GTNP-COLTER BAY VILLAGE",
+        "Population Served": 4514,
+        "City": "MOOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7164398,
+          43.6559315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GTNP-JACKSON LAKE LODGE",
+        "Population Served": 1830,
+        "City": "MOOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7164398,
+          43.6559315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GTNP--MOOSE/BEAVER CREEK",
+        "Population Served": 221,
+        "City": "MOOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.7164398,
+          43.6559315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUFFALO VALLEY WATER DISTRICT",
+        "Population Served": 50,
+        "City": "MORAN JCT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.775746,
+          41.158673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW, TOWN OF",
+        "Population Served": 1250,
+        "City": "MOUNTAIN VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.336203,
+          41.2729213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMBRIA I&S DISTRICT",
+        "Population Served": 148,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANYON IMPROVEMENT & SERVICE DISTRICT",
+        "Population Served": 79,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWCASTLE, CITY OF",
+        "Population Served": 3521,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALT CREEK WATER DISTRICT",
+        "Population Served": 600,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET RANCH WATER DISTRICT",
+        "Population Served": 70,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER UNLIMITED, INCORPORATED",
+        "Population Served": 144,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST END WATER DISTRICT",
+        "Population Served": 225,
+        "City": "NEWCASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.2051256,
+          43.8547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OPAL, TOWN OF",
+        "Population Served": 65,
+        "City": "OPAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.325995,
+          41.769116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE WATER DISTRICT",
+        "Population Served": 240,
+        "City": "OSAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.421855,
+          43.9807967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAVILLION, TOWN OF",
+        "Population Served": 230,
+        "City": "PAVILLION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6902581,
+          43.2446546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE BLUFFS, TOWN OF",
+        "Population Served": 1186,
+        "City": "PINE BLUFFS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0667789,
+          41.179678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE HAVEN, TOWN OF",
+        "Population Served": 498,
+        "City": "PINE HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.810526,
+          44.35776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEDALE MUNICIPAL WS",
+        "Population Served": 1900,
+        "City": "PINEDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8609808,
+          42.8671325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POINT OF ROCKS MERCANTILE",
+        "Population Served": 78,
+        "City": "POINT OF ROCKS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.785668,
+          41.6802397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POWELL, CITY OF",
+        "Population Served": 6310,
+        "City": "POWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.75902,
+          44.752873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHESTER, TOWN OF",
+        "Population Served": 1297,
+        "City": "RANCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.163411,
+          44.908859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAWLINS WATER SUPPLY, CITY OF",
+        "Population Served": 9006,
+        "City": "RAWLINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.239176,
+          41.7907878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "A & J MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "B&K MOBILE HOME PARK",
+        "Population Served": 200,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARVIEW WATER AND SEWER DISTRICT",
+        "Population Served": 60,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIRST FIKE SUBDIVISION",
+        "Population Served": 150,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDENS NORTH HOME OWNERS ASSOCIATION",
+        "Population Served": 300,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JADE MHC",
+        "Population Served": 200,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFREY CITY WATER & SEWER DISTRICT",
+        "Population Served": 40,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW ACRES",
+        "Population Served": 165,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINTREE ESTATES",
+        "Population Served": 83,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERTON, CITY OF",
+        "Population Served": 10330,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SECOND FIKE SUBDIVISION",
+        "Population Served": 34,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRIDGE ESTATES",
+        "Population Served": 220,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.380727,
+          43.0247245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCK RIVER, TOWN OF",
+        "Population Served": 211,
+        "City": "ROCK RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9757718,
+          41.7413843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEARVIEW I&S DISTRICT",
+        "Population Served": 930,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORIZON MHP",
+        "Population Served": 330,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEWIS MOBILE HOME PARK",
+        "Population Served": 370,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOBILE CORRALS/STALLS COURT",
+        "Population Served": 300,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCK SPRINGS, CITY OF",
+        "Population Served": 24000,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKYLINE VILLAGE MOBILE HOME PK",
+        "Population Served": 700,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEN MILE WATER AND SEWER DISTRICT",
+        "Population Served": 305,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "W BAR K MOBILE HOME PARK",
+        "Population Served": 110,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN HILLS MHP",
+        "Population Served": 450,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE MOUNTAIN MOBILE HOME PARK",
+        "Population Served": 270,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE MOUNTAIN W&S DISTRICT",
+        "Population Served": 3000,
+        "City": "ROCK SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.2194544,
+          41.5860557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROLLING HILLS, TOWN OF",
+        "Population Served": 450,
+        "City": "ROLLING HILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8445784,
+          42.899593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARD CREEK LANDOWNERS ASSOCIATION",
+        "Population Served": 77,
+        "City": "ROZET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.205158,
+          44.2780974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEDICINE WATERS VILLAGE",
+        "Population Served": 200,
+        "City": "SARATOGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8053642,
+          41.4546384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SARATOGA, TOWN OF",
+        "Population Served": 1720,
+        "City": "SARATOGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8053642,
+          41.4546384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHELL TOWN WATER IMPROVEMENT DISTRICT",
+        "Population Served": 120,
+        "City": "SHELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7798127,
+          44.5355158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOWNER NEIGHBORHOOD I&S DISTRICT",
+        "Population Served": 400,
+        "City": "SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.956179,
+          44.797194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHERIDAN, CITY OF",
+        "Population Served": 22700,
+        "City": "SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.956179,
+          44.797194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VETERANS ADMINISTRATION MEDICAL CENTER",
+        "Population Served": 685,
+        "City": "SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.956179,
+          44.797194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHOSHONI, TOWN OF",
+        "Population Served": 515,
+        "City": "SHOSHONI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1105154,
+          43.2355642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SINCLAIR, TOWN OF",
+        "Population Served": 433,
+        "City": "SINCLAIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.1162507,
+          41.7791754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER SMOOT W&S DISTRICT",
+        "Population Served": 720,
+        "City": "SMOOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9143626,
+          42.6204847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAR VALLEY RANCH, TOWN OF",
+        "Population Served": 2030,
+        "City": "STAR VALLEY RANCH,THAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.998784,
+          42.919954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNDANCE, CITY OF",
+        "Population Served": 1279,
+        "City": "SUNDANCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.375895,
+          44.4064017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA WEST IMPROVEMENT & SERV DISTRICT",
+        "Population Served": 120,
+        "City": "SUNDANCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.375895,
+          44.4064017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUPERIOR, TOWN OF",
+        "Population Served": 336,
+        "City": "SUPERIOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.967853,
+          41.761852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEN SLEEP, TOWN OF",
+        "Population Served": 400,
+        "City": "TEN SLEEP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.448002,
+          44.034183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TETON VILLAGE WATER & SEWER DISTRICT",
+        "Population Served": 660,
+        "City": "TETON VILLAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.827989,
+          43.587984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR SPRINGS MEADOWS",
+        "Population Served": 19,
+        "City": "THAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.002469,
+          42.9208143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEISURE VALLEY INC/ STAR VALLEY RV PARK",
+        "Population Served": 1910,
+        "City": "THAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.002469,
+          42.9208143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH FORTY SUBDIVISION",
+        "Population Served": 15,
+        "City": "THAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.002469,
+          42.9208143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THAYNE, TOWN OF",
+        "Population Served": 366,
+        "City": "THAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.002469,
+          42.9208143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST THERMOPOLIS, TOWN OF",
+        "Population Served": 254,
+        "City": "THERMOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.212043,
+          43.646067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUCERNE WATER AND SEWER DIST.",
+        "Population Served": 350,
+        "City": "THERMOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.212043,
+          43.646067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED LANE DOMESTIC WATER, INC.",
+        "Population Served": 110,
+        "City": "THERMOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.212043,
+          43.646067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH THERMOPOLIS W&S DISTRICT",
+        "Population Served": 450,
+        "City": "THERMOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.212043,
+          43.646067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THERMOPOLIS, TOWN OF",
+        "Population Served": 3009,
+        "City": "THERMOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.212043,
+          43.646067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COTTONWOOD ACRES",
+        "Population Served": 95,
+        "City": "TORRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.184394,
+          42.062465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DILLMAN ESTATES",
+        "Population Served": 100,
+        "City": "TORRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.184394,
+          42.062465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTLATCH TRAILER COURT",
+        "Population Served": 70,
+        "City": "TORRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.184394,
+          42.062465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH TORRINGTON WATER DISTRICT",
+        "Population Served": 450,
+        "City": "TORRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.184394,
+          42.062465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONE CREEK HOA",
+        "Population Served": 100,
+        "City": "TORRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.184394,
+          42.062465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TORRINGTON MUNICIPAL WATER DEPT, CITY OF",
+        "Population Served": 6847,
+        "City": "TORRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.184394,
+          42.062465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPTON, TOWN OF",
+        "Population Served": 1100,
+        "City": "UPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6280496,
+          44.0997037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAMSUTTER, TOWN OF",
+        "Population Served": 500,
+        "City": "WAMSUTTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.979217,
+          41.672931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHEATLAND, TOWN OF",
+        "Population Served": 3659,
+        "City": "WHEATLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.952726,
+          42.054424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "Y-O INVESTMENTS, INC.",
+        "Population Served": 180,
+        "City": "WHEATLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.952726,
+          42.054424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "C-V RANCHES (BOCES REG V)",
+        "Population Served": 51,
+        "City": "WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8721007,
+          43.4990511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FISH CREEK IMPROVEMENT AND SERVICE DIST",
+        "Population Served": 210,
+        "City": "WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8721007,
+          43.4990511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HWY 390 LLC",
+        "Population Served": 50,
+        "City": "WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8721007,
+          43.4990511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INDIAN PAINTBRUSH WATER DISTRICT",
+        "Population Served": 150,
+        "City": "WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8721007,
+          43.4990511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON PARK SUBDIVISION",
+        "Population Served": 75,
+        "City": "WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.8721007,
+          43.4990511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG HORN REGIONAL JPB",
+        "Population Served": 25,
+        "City": "WORLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.955772,
+          44.0168463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WORLAND UTILITIES COMMISSION",
+        "Population Served": 5487,
+        "City": "WORLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.955772,
+          44.0168463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WRIGHT WATER & SEWER DISTRICT",
+        "Population Served": 2500,
+        "City": "WRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.484825,
+          43.751281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YNP-MAMMOTH HOT SPRINGS",
+        "Population Served": 2600,
+        "City": "YELLOWSTONE NP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5606893,
+          44.6200885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YNP-OLD FAITHFUL",
+        "Population Served": 7675,
+        "City": "YELLOWSTONE NP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.5606893,
+          44.6200885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YELLOWSTONE NATIONAL PARK - LAKE VILLAGE",
+        "Population Served": 5925,
+        "City": "YELLOWSTONE NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.227472,
+          44.807069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YODER, TOWN OF",
+        "Population Served": 131,
+        "City": "YODER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.295813,
+          41.9169291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENNOR ESTATES & IMPROVEMENT DISTRICT",
+        "Population Served": 144,
+        "City": "Gillette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGH MEADOW RANCH",
+        "Population Served": 580,
+        "City": "Pinedale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.8609808,
+          42.8671325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILE-HI I&S DISTRICT",
+        "Population Served": 48,
+        "City": "Casper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.325138,
+          42.8501191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH GURLEY MOBILE HOME PARK",
+        "Population Served": 128,
+        "City": "Gillette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OWL CREEK WATER DISTRICT",
+        "Population Served": 100,
+        "City": "Thermopolis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.212043,
+          43.646067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRAIL RIDGE WATER SYSTEM",
+        "Population Served": 100,
+        "City": "Alpine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.0178761,
+          43.1636455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHAKIE RURAL WATER SYSTEM",
+        "Population Served": 990,
+        "City": "Worland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.955772,
+          44.0168463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTVIEW MHC",
+        "Population Served": 416,
+        "City": "Gillette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.501876,
+          44.290635
+        ]
+      }
+    }
+  ]
+}
